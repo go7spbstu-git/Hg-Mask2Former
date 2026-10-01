@@ -1,4 +1,4 @@
-# Ours IDJC320 Cross-Platform Reproducibility Package
+# Ours Hg-Mask2Former++ Cross-Platform Reproducibility Package
 
 This package contains the final reproducibility workflow for the proposed model:
 
