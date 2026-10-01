@@ -1,0 +1,13 @@
+===== Python =====
+Python 3.10.8
+
+===== PyTorch =====
+torch = 2.1.2+cu121
+cuda = 12.1
+cuda_available = False
+
+===== OpenMMLab =====
+mmcv = 2.1.0
+mmengine = 0.10.7
+mmseg = 1.2.2
+mmdet = 3.3.0
